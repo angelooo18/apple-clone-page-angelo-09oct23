@@ -2,7 +2,7 @@
 
 # Apple Clone Page
 
-> One paragraph statement about the project.
+> A Apple Website Example with HTML and CSS
 
 ![screenshot](./app_screenshot.png)
 
