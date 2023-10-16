@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://angelooo18.github.io/apple-clone-page-angelo-09oct23/)
 
 
 ## Getting Started
@@ -43,7 +43,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 **Angelo Lorenzoni Emanuele**
 
 - GitHub: [@angelooo18](https://github.com/angelooo18)
 
